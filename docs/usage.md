@@ -1,3 +1,4 @@
 # usage.md
 
 Notes and usage details for treex.
+- fix a small wording issue
